@@ -1,0 +1,77 @@
+Connected to the database Product table created successfully
+
+Menu:
+1.	Add Product
+2.	Update Product
+3.	View Products
+4.	Remove Product
+5.	Exit
+Enter your choice (1-5): 1 Enter product name: Laptop
+Enter product category: Electronics Enter product quantity: 10
+Enter product price: 799.99 Product added successfully
+
+Menu:
+1.	Add Product
+2.	Update Product
+3.	View Products
+4.	Remove Product
+5.	Exit
+Enter your choice (1-5): 1
+Enter product name: Smartphone Enter product category: Electronics Enter product quantity: 20
+Enter product price: 499.99
+ 
+Product added successfully
+
+
+Menu:
+1.	Add Product
+2.	Update Product
+3.	View Products
+4.	Remove Product
+5.	Exit
+Enter your choice (1-5): 3
+Product ID | Product Name | Category | Quantity | Price
+ 	- 1 | Laptop | Electronics | 10 | 799.99
+2 | Smartphone | Electronics | 20 | 499.99
+
+
+Menu:
+1.	Add Product
+2.	Update Product
+3.	View Products
+4.	Remove Product
+5.	Exit
+Enter your choice (1-5): 2
+Enter the product ID to update: 1 Enter the new quantity: 5
+Enter the new price: 899.99
+Product information updated successfully
+
+
+Menu:
+1.	Add Product
+2.	Update Product
+ 
+3.	View Products
+4.	Remove Product
+5.	Exit
+Enter your choice (1-5): 4
+Enter the product ID to remove: 2 Product removed from inventory
+
+Menu:
+1.	Add Product
+2.	Update Product
+3.	View Products
+4.	Remove Product
+5.	Exit
+Enter your choice (1-5): 3
+Product ID | Product Name | Category | Quantity | Price
+ 	- 1 | Laptop | Electronics | 5 | 899.99
+
+Menu:
+1.	Add Product
+2.	Update Product
+3.	View Products
+4.	Remove Product
+5.	Exit
+Enter your choice (1-5): 5 Exiting...
+Connection to the database closed
